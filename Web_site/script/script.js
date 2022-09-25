@@ -1,3 +1,11 @@
 "use strict";
 
-alert('Hello')[1, 2].forEach(alert);
+let message, name, lastname;
+
+name = 'amir';
+lastname = 'muratov';
+
+message = name + ' ' + lastname;
+
+let p = confirm(message);
+alert(p) 
