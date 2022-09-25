@@ -1,0 +1,1 @@
+язырга('I love Tatar language!')
