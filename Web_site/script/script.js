@@ -1,11 +1,9 @@
 "use strict";
 
-let message, name, lastname;
-
-name = 'amir';
-lastname = 'muratov';
-
-message = name + ' ' + lastname;
-
-let p = confirm(message);
-alert(p) 
+let num;
+num = 1;
+if (num == 1)
+{
+    num ++;
+    document.CDATA_SECTION_NODE;
+}
